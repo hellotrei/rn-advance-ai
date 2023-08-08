@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "ai.advance.liveness.sdk",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "liveness-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/debug/AndroidManifest.xml",
+      "properties": {
+        "packageId": "ai.advance.liveness.sdk",
+        "split": ""
+      }
+    }
+  ]
+}

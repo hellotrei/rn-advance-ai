@@ -1,0 +1,359 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1521ea22361ff101daeb3222ad22f96d/jetified-flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/b0e545b1aadd9b5d296296ec05f6986b/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/cd96642e8a738868497e87ae978cb2c4/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/0a7ad1398a3fd9410d93a05e067ad9bc/jetified-react-native-0.63.3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/38a48dbc860fe0f1f1efdce87916ebc2/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/trei/.gradle/caches/transforms-2/files-2.1/e7ef4c8aec6ae2b12b32f5f7a02ae2f6/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/61082ac3a2186dce8c22272c445541d4/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/bb5411827c0339d8adea343068ef4ae7/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/4a1010494217354c33e7cd8eb17ea5b9/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/3db8d23911e7639a57ac7ade8cdc4b22/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/dd5c8da482f63cad678ecd5812624f48/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/b8b9b7e1e9973a6df339d0a86e34f4ab/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/2e228bec5f5d567a59f40d86156d64c3/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/796f42ca1ee0ab3de69b9f476e0068af/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a1f31513dafbfeaba6f3541f368e901b/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/3bf213d69d05de4584872b5f11a586ae/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d19051a9f1e6ee6e6366e909c51f19cb/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/7379b41bf230efef8f7a0fb8c38d4a26/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/02760dba70e9fad9ee59dc33d8da1a7e/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/019c25e80f64792266cfbba7ff0b7078/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1f9095562c8afc1a2e9d2e823ba211f9/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/58eb5792a19838194364070c92f216bf/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/trei/.gradle/caches/transforms-2/files-2.1/32908aa427ee5b398b171da2ba30a848/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/trei/.gradle/caches/transforms-2/files-2.1/f01ac63dde3069edf2eb6dbe065dca00/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/trei/.gradle/caches/transforms-2/files-2.1/366989e2e01f765624fa7cee76825dbd/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/98238b8a32aa89ad8f66a169389965ad/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/206f44bab7c1e7989bca28f40040593b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/trei/.gradle/caches/transforms-2/files-2.1/7d94de6c09d0e8513402bfe822fdb77b/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/trei/.gradle/caches/transforms-2/files-2.1/00d69c597115f785475e82eac57e886a/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/2f9e448315178fa6b4234b3459b778f4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/37765d392f78c82ffd2910703c4e8763/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/b230f7c74754aa0b421d83557df1f73b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/bcb70fbf4324733193b125d0996304de/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/3e0667e4edc721422f45c63ca8d79fdf/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/337fb054bb21eaede749dd65aaea9fcd/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d6db3256ceaf725cc98d3c9cc09073c7/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/31ebe3e4a9db3052659e49994522284e/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/16a8672ef619ea6640bfe37e82ac41bb/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/f889d905ecb97f7d3508b52eaaa4c891/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/34762f4e13b2ec12cfe750e75a00bbba/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/43d8de33e1618c93696b8a2279c1c2c8/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/aa660c7a33771b99d099e62fd209420c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/01a79d99daf8b8133ca94b84c17ea38f/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/2c30082cf6e077f1dd74976142419f5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/6b6d69d873487db005b324300e41facd/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/f47b7f31c67509b1ebad0ddf1dce8ccf/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/fb1ee1edf91613a99599db0cbdcda634/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection-rn:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/0f70b8cca38bd16459deb9352576e125/jetified-liveness-detection-rn-2.1.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d90a0056065a8323812a5961afcd9f5c/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/858dd2e1ae875af37fae843d7ac5d971/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1a6153c361d268c31c462f58506b5acf/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [ai.advance.mobile-sdk.android:core:3.5] /Users/trei/.gradle/caches/transforms-2/files-2.1/0812ba3a3b7fb247f8ebbedb2b9949c2/jetified-core-3.5/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1521ea22361ff101daeb3222ad22f96d/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1521ea22361ff101daeb3222ad22f96d/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:11:5-67
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/0a7ad1398a3fd9410d93a05e067ad9bc/jetified-react-native-0.63.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/0a7ad1398a3fd9410d93a05e067ad9bc/jetified-react-native-0.63.3/AndroidManifest.xml:11:5-20
+MERGED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/58eb5792a19838194364070c92f216bf/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/58eb5792a19838194364070c92f216bf/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/trei/.gradle/caches/transforms-2/files-2.1/32908aa427ee5b398b171da2ba30a848/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/trei/.gradle/caches/transforms-2/files-2.1/32908aa427ee5b398b171da2ba30a848/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d6db3256ceaf725cc98d3c9cc09073c7/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d6db3256ceaf725cc98d3c9cc09073c7/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/43d8de33e1618c93696b8a2279c1c2c8/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/43d8de33e1618c93696b8a2279c1c2c8/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/aa660c7a33771b99d099e62fd209420c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/aa660c7a33771b99d099e62fd209420c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:14:5-21:19
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:14:5-21:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d6db3256ceaf725cc98d3c9cc09073c7/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.example.MainActivity
+ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1521ea22361ff101daeb3222ad22f96d/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1521ea22361ff101daeb3222ad22f96d/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/b0e545b1aadd9b5d296296ec05f6986b/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/b0e545b1aadd9b5d296296ec05f6986b/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/cd96642e8a738868497e87ae978cb2c4/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/cd96642e8a738868497e87ae978cb2c4/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/0a7ad1398a3fd9410d93a05e067ad9bc/jetified-react-native-0.63.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/0a7ad1398a3fd9410d93a05e067ad9bc/jetified-react-native-0.63.3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/38a48dbc860fe0f1f1efdce87916ebc2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/38a48dbc860fe0f1f1efdce87916ebc2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/trei/.gradle/caches/transforms-2/files-2.1/e7ef4c8aec6ae2b12b32f5f7a02ae2f6/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/trei/.gradle/caches/transforms-2/files-2.1/e7ef4c8aec6ae2b12b32f5f7a02ae2f6/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/61082ac3a2186dce8c22272c445541d4/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/61082ac3a2186dce8c22272c445541d4/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/bb5411827c0339d8adea343068ef4ae7/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/bb5411827c0339d8adea343068ef4ae7/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/4a1010494217354c33e7cd8eb17ea5b9/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/4a1010494217354c33e7cd8eb17ea5b9/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/3db8d23911e7639a57ac7ade8cdc4b22/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/3db8d23911e7639a57ac7ade8cdc4b22/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/dd5c8da482f63cad678ecd5812624f48/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/dd5c8da482f63cad678ecd5812624f48/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/b8b9b7e1e9973a6df339d0a86e34f4ab/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/b8b9b7e1e9973a6df339d0a86e34f4ab/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/2e228bec5f5d567a59f40d86156d64c3/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/2e228bec5f5d567a59f40d86156d64c3/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/796f42ca1ee0ab3de69b9f476e0068af/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/796f42ca1ee0ab3de69b9f476e0068af/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a1f31513dafbfeaba6f3541f368e901b/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a1f31513dafbfeaba6f3541f368e901b/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/3bf213d69d05de4584872b5f11a586ae/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/3bf213d69d05de4584872b5f11a586ae/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d19051a9f1e6ee6e6366e909c51f19cb/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d19051a9f1e6ee6e6366e909c51f19cb/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/7379b41bf230efef8f7a0fb8c38d4a26/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/7379b41bf230efef8f7a0fb8c38d4a26/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/02760dba70e9fad9ee59dc33d8da1a7e/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/02760dba70e9fad9ee59dc33d8da1a7e/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/019c25e80f64792266cfbba7ff0b7078/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/019c25e80f64792266cfbba7ff0b7078/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1f9095562c8afc1a2e9d2e823ba211f9/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1f9095562c8afc1a2e9d2e823ba211f9/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/58eb5792a19838194364070c92f216bf/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/58eb5792a19838194364070c92f216bf/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/trei/.gradle/caches/transforms-2/files-2.1/32908aa427ee5b398b171da2ba30a848/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/trei/.gradle/caches/transforms-2/files-2.1/32908aa427ee5b398b171da2ba30a848/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/trei/.gradle/caches/transforms-2/files-2.1/f01ac63dde3069edf2eb6dbe065dca00/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/trei/.gradle/caches/transforms-2/files-2.1/f01ac63dde3069edf2eb6dbe065dca00/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/trei/.gradle/caches/transforms-2/files-2.1/366989e2e01f765624fa7cee76825dbd/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/trei/.gradle/caches/transforms-2/files-2.1/366989e2e01f765624fa7cee76825dbd/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/98238b8a32aa89ad8f66a169389965ad/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/98238b8a32aa89ad8f66a169389965ad/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/206f44bab7c1e7989bca28f40040593b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/206f44bab7c1e7989bca28f40040593b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/trei/.gradle/caches/transforms-2/files-2.1/7d94de6c09d0e8513402bfe822fdb77b/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/trei/.gradle/caches/transforms-2/files-2.1/7d94de6c09d0e8513402bfe822fdb77b/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/trei/.gradle/caches/transforms-2/files-2.1/00d69c597115f785475e82eac57e886a/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/trei/.gradle/caches/transforms-2/files-2.1/00d69c597115f785475e82eac57e886a/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/2f9e448315178fa6b4234b3459b778f4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/2f9e448315178fa6b4234b3459b778f4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/37765d392f78c82ffd2910703c4e8763/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/37765d392f78c82ffd2910703c4e8763/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/b230f7c74754aa0b421d83557df1f73b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/b230f7c74754aa0b421d83557df1f73b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/bcb70fbf4324733193b125d0996304de/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/bcb70fbf4324733193b125d0996304de/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/3e0667e4edc721422f45c63ca8d79fdf/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/3e0667e4edc721422f45c63ca8d79fdf/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/337fb054bb21eaede749dd65aaea9fcd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/337fb054bb21eaede749dd65aaea9fcd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d6db3256ceaf725cc98d3c9cc09073c7/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d6db3256ceaf725cc98d3c9cc09073c7/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/31ebe3e4a9db3052659e49994522284e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/31ebe3e4a9db3052659e49994522284e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/16a8672ef619ea6640bfe37e82ac41bb/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/16a8672ef619ea6640bfe37e82ac41bb/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/f889d905ecb97f7d3508b52eaaa4c891/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/f889d905ecb97f7d3508b52eaaa4c891/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/34762f4e13b2ec12cfe750e75a00bbba/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/34762f4e13b2ec12cfe750e75a00bbba/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/43d8de33e1618c93696b8a2279c1c2c8/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/43d8de33e1618c93696b8a2279c1c2c8/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/aa660c7a33771b99d099e62fd209420c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/aa660c7a33771b99d099e62fd209420c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/01a79d99daf8b8133ca94b84c17ea38f/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/01a79d99daf8b8133ca94b84c17ea38f/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/2c30082cf6e077f1dd74976142419f5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/2c30082cf6e077f1dd74976142419f5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/6b6d69d873487db005b324300e41facd/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/trei/.gradle/caches/transforms-2/files-2.1/6b6d69d873487db005b324300e41facd/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/f47b7f31c67509b1ebad0ddf1dce8ccf/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/f47b7f31c67509b1ebad0ddf1dce8ccf/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/fb1ee1edf91613a99599db0cbdcda634/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/fb1ee1edf91613a99599db0cbdcda634/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection-rn:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/0f70b8cca38bd16459deb9352576e125/jetified-liveness-detection-rn-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection-rn:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/0f70b8cca38bd16459deb9352576e125/jetified-liveness-detection-rn-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d90a0056065a8323812a5961afcd9f5c/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/d90a0056065a8323812a5961afcd9f5c/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/858dd2e1ae875af37fae843d7ac5d971/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/858dd2e1ae875af37fae843d7ac5d971/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1a6153c361d268c31c462f58506b5acf/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1a6153c361d268c31c462f58506b5acf/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [ai.advance.mobile-sdk.android:core:3.5] /Users/trei/.gradle/caches/transforms-2/files-2.1/0812ba3a3b7fb247f8ebbedb2b9949c2/jetified-core-3.5/AndroidManifest.xml:7:5-9:41
+MERGED from [ai.advance.mobile-sdk.android:core:3.5] /Users/trei/.gradle/caches/transforms-2/files-2.1/0812ba3a3b7fb247f8ebbedb2b9949c2/jetified-core-3.5/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1521ea22361ff101daeb3222ad22f96d/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/1521ea22361ff101daeb3222ad22f96d/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+activity#ai.advance.liveness.sdk.activity.LivenessActivity
+ADDED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:72
+	android:screenOrientation
+		ADDED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-49
+	android:launchMode
+		ADDED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-43
+	android:theme
+		ADDED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-69
+	android:name
+		ADDED from [:liveness] /Users/trei/Desktop/react-native-aaiios-liveness-sdk-V3.0.3/example/android/liveness/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-77
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/aa660c7a33771b99d099e62fd209420c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/aa660c7a33771b99d099e62fd209420c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/a8e937c062a8b84270edb503e8c49315/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/trei/.gradle/caches/transforms-2/files-2.1/6781b2916482d937d59eb477618d64f1/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+uses-feature#android.hardware.camera
+ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:9:19-57
+uses-permission#android.permission.CAMERA
+ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:12:22-62
+service#ai.advance.liveness.lib.LService
+ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:16:13-60
+service#ai.advance.liveness.lib.RService
+ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [ai.advance.mobile-sdk.android:liveness-detection:2.1.3] /Users/trei/.gradle/caches/transforms-2/files-2.1/7033be9899ae050ec8d6b5c774471c58/jetified-liveness-detection-2.1.3/AndroidManifest.xml:19:13-60
