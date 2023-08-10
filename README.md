@@ -107,6 +107,13 @@ Notes:
     ENDPOINT_URL=https://api.advance.ai/openapi
    ```
 5. Run Project
+  for iOS, you need to install Pods:
+
+  ```sh
+   cd ios && pod install && cd ..
+   ```
+   to run these project on both Android and iOS, please type code below on root project:
+
    ```sh
    npm run start
    ```
